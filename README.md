@@ -83,7 +83,7 @@ Life has shown me in very vivid ways how precious, fragile, resilient and beauti
 
 [Reading List Example](https://towardsdatascience.com/a-non-technical-reading-list-for-data-science-d72451429a70)
 
-[Best Blogs](https://towardsdatascience.com/best-data-science-blogs-to-follow-in-2020-d03044169eb4)
+[Best Blogs Example](https://towardsdatascience.com/best-data-science-blogs-to-follow-in-2020-d03044169eb4)
 
 [Best Podcasts Example](https://towardsdatascience.com/top-20-podcasts-for-data-science-83dc9e07448e)
 
