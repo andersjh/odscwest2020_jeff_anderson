@@ -10,6 +10,8 @@
 - So much to learn
 - So many doubts, Am I good enough?
 
+## I Have See So Many Success Stories
+
 ## The Right Foundations 
 - Pursue the best solution, not seek validation of your ideas
 - Trust what you know
