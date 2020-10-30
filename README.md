@@ -18,6 +18,7 @@
   - working on real projects is the best way 
 - Be curious
 - Have fun
+- Teach in order to learn
 - Redefine failure
   - Job Interview - This could be the only time I get to talk to these fascinating people, I'm going to get the most out of it
   - Coding Challenges - Learn what they are about
