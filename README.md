@@ -49,6 +49,7 @@
   - You become a storyteller
   - Know your audience
   - Follow great story tellers
+  - Never forget that your stories will impact people's lives.
 - What Is Your Story?  
   - We all have an internal story that is self-created
   - We all always succeed at fulfilling our story (we live the story we believe)
