@@ -13,11 +13,13 @@
 ## It is a Scary Time to Be in Data Science
 - So much to learn
 - So many doubts, Am I good enough?
+- Instructor to his son story
 
 ## I Have See So Many Success Stories
 
 ## The Right Foundations 
 - Be open to the moment's comedy
+- Always be looking for oportunities to help others
 - Pursue the best solution, not seek validation of your ideas
 - Trust what you know
 - You don't have to know everything
