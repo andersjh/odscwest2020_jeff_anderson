@@ -12,9 +12,9 @@
 ## The Right Foundations 
 - Pursue the best solution, not seek validation of your ideas
 - Trust what you know
-- You don't have to know everthing
+- You don't have to know everything
 - You have to know how to learn anything
-  - repitition required
+  - repetition required
   - working on real projects is the best way 
 - Be curious
 - Have fun
@@ -27,21 +27,21 @@
 - What Story Does Your Data Tell?
   - Be curious
   - There is no magic
-- How Will You Tell The Datas Story?
-  - You become a story teller
+- How Will You Tell The Data’s Story?
+  - You become a storyteller
   - Know your audience
   - Follow great story tellers
 - What Is Your Story?  
-  - We all have an internal story that is self created
-  - We all always succeed at fulfilling our story ( we live the story we believe )
-  - Find / Create a great story ( make it beautiful and resilient )
+  - We all have an internal story that is self-created
+  - We all always succeed at fulfilling our story (we live the story we believe)
+  - Find / Create a great story (make it beautiful and resilient)
     - Purpose vs Pleasure
     - Connection vs Isolation
     - Now vs Fantasy
   - Create The principles of your story
     - Why is therapy so often helpful? - To speak about something requires distancing from it.
-    - When the self defeating story surfaces, remember your principles
-    - The power of self care - you can only really give others what you've given yourself
+    - When the self-defeating story surfaces, remember your principles
+    - The power of self-care - you can only really give others what you've given yourself
   
 ## My Story
 
