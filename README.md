@@ -15,6 +15,7 @@
 ## I Have See So Many Success Stories
 
 ## The Right Foundations 
+- Be open to the moment's comedy
 - Pursue the best solution, not seek validation of your ideas
 - Trust what you know
 - You don't have to know everything
