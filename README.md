@@ -3,7 +3,7 @@
 ## It is an Exciting Time to Be in Data Science
 - So many opportunities
 - So few practitioners
-- Nothing matters but can you do the work
+- Nothing matters but, Can you do the work?
 - It's almost like it was in the old west with doctors
 
 ## It is a Scary Time to Be in Data Science
