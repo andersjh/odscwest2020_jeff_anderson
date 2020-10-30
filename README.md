@@ -3,6 +3,7 @@
 ## It is an Exciting Time to Be in Data Science
 - So many opportunities
 - So few practitioners
+- Nothing matters but can you do the work
 - It's almost like it was in the old west with doctors
 
 ## It is a Scary Time to Be in Data Science
@@ -23,6 +24,11 @@
   - Job Interview - This could be the only time I get to talk to these fascinating people, I'm going to get the most out of it
   - Coding Challenges - Learn what they are about
   - Failure is preparing you to help others
+- Build your brand  
+  - github readme so important - first impression you make
+  - follow and interact online
+  - write, read, speak, youtube
+  - be kind 
 
 ## Stories Are The Key To Success 
 - What Story Does Your Data Tell?
