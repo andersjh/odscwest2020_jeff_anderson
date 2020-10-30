@@ -1,15 +1,15 @@
 # ODSC West 2020 Presentation Key Ideas
 
-## It is such an exciting time to be in Data Science
+## It is an Exciting Time to Be in Data Science
 - So many opportunities
 - So few practitioners
 - It's almost like it was in the old west with doctors
 
-## It is a scary time to be in Data Science
+## It is a Scary Time to Be in Data Science
 - So much to learn
 - So many doubts, Am I good enough?
 
-## The right foundations 
+## The Right Foundations 
 - Pursue the best solution, not seek validation of your ideas
 - Trust what you know
 - You don't have to know everthing
@@ -38,7 +38,7 @@
     - Purpose vs Pleasure
     - Connection vs Isolation
     - Now vs Fantasy
-  - Create The Principles of Your Story
+  - Create The principles of your story
     - Why is therapy so often helpful? - To speak about something requires distancing from it.
     - When the self defeating story surfaces, remember your principles
     - The power of self care - you can only really give others what you've given yourself
@@ -77,7 +77,7 @@ Life has shown me in very vivid ways how precious, fragile, resilient and beauti
 
 ### Articles
 
-[10 Signs You Will Suck at Programming(https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+[10 Signs You Will Suck at Programming](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 
 [Signs That You Are A Good Programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer/)
 
