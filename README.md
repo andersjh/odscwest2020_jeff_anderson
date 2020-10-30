@@ -1,5 +1,28 @@
 # ODSC West 2020 Presentation Key Ideas
 
+## It is such an exciting time to be in Data Science
+- So many opportunities
+- So few practitioners
+- It's almost like it was in the old west with doctors
+
+## It is a scary time to be in Data Science
+- So much to learn
+- So many doubts, Am I good enough?
+
+## The right foundations 
+- Pursue the best solution, not seek validation of your ideas
+- Trust what you know
+- You don't have to know everthing
+- You have to know how to learn anything
+  - repitition required
+  - working on real projects is the best way 
+- Be curious
+- Have fun
+- Redefine failure
+  - Job Interview - This could be the only time I get to talk to these fascinating people, I'm going to get the most out of it
+  - Coding Challenges - Learn what they are about
+  - Failure is preparing you to help others
+
 ## Stories Are The Key To Success 
 - What Story Does Your Data Tell?
   - Be curious
@@ -14,11 +37,15 @@
   - Find / Create a great story ( make it beautiful and resilient )
     - Purpose vs Pleasure
     - Connection vs Isolation
-  - Create The Priciples of Your Story  
+    - Now vs Fantasy
+  - Create The Principles of Your Story
+    - Why is therapy so often helpful? - To speak about something requires distancing from it.
+    - When the self defeating story surfaces, remember your principles
+    - The power of self care - you can only really give others what you've given yourself
   
 ## My Story
 
-I am drawn 
+Life has shown me in very vivid ways how precious, fragile, resilient and beautiful life is.  When I'm at my best, I am a living the life of an always curious seeker who sees a lot of humor in life.  I just want to do whatever I can to help others.  I love quest stories and my favorite characters are the ones who become more than you'd ever imagine from unexpected beginnings.  Yes, I was born and raised in North Dakota.  When I'm at my worst, I forget this story and seek worth from things outside my control.
 
 ## My Story Principles
 - Every Day Is A Gift
@@ -59,3 +86,5 @@ I am drawn
 [Best Blogs](https://towardsdatascience.com/best-data-science-blogs-to-follow-in-2020-d03044169eb4)
 
 [Best Podcasts Example](https://towardsdatascience.com/top-20-podcasts-for-data-science-83dc9e07448e)
+
+[DataRobot Blog](https://www.datarobot.com/blog/)
