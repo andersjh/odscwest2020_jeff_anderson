@@ -34,6 +34,8 @@
   - follow and interact online
   - write, read, speak, youtube
   - be kind 
+- You cannot even remotely imagine your future, don't worry
+- All experiences add can add value to your brand
 
 ## Stories Are The Key To Success 
 - What Story Does Your Data Tell?
