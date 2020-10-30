@@ -2,7 +2,7 @@
 
 ## Comedy of Life - 2020
 - Life will knock you off your feet over and over
-- You have no idea what your future is, but every exprience makes it richer.  There is no wasted time.
+- You have no idea what your future is, but every exprience makes it richer.  There is no wasted experience.
 
 ## It is an Exciting Time to Be in Data Science
 - So many opportunities
