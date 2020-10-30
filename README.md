@@ -1,5 +1,7 @@
 # ODSC West 2020 Presentation Key Ideas
 
+## Comedy of Life - 2020
+
 ## It is an Exciting Time to Be in Data Science
 - So many opportunities
 - So few practitioners
