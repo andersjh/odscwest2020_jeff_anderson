@@ -1,10 +1,61 @@
-# ODSC West 2020 Presentation
+# ODSC West 2020 Presentation Key Ideas
+
+## Stories Are The Key To Success 
+- What Story Does Your Data Tell?
+  - Be curious
+  - There is no magic
+- How Will You Tell The Datas Story?
+  - You become a story teller
+  - Know your audience
+  - Follow great story tellers
+- What Is Your Story?  
+  - We all have an internal story that is self created
+  - We all always succeed at fulfilling our story ( we live the story we believe )
+  - Find / Create a great story ( make it beautiful and resilient )
+    - Purpose vs Pleasure
+    - Connection vs Isolation
+  - Create The Priciples of Your Story  
+  
+## My Story
+
+I am drawn 
+
+## My Story Principles
+- Every Day Is A Gift
+- Every Person Is A Wonder
+- Life is Short
+- If I'm not having fun or this isn't important to me, why am I doing it?
+
 
 
 ## Resource List From Presentation
 
-### Books
+### Technology Books
 
 [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley-dp-0135116694/dp/0135116694/ref=mt_other?_encoding=UTF8&me=&qid=1604066464)
 
 [Hands On Machine Learning](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_bxgy_img_2/146-3028129-9830702?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=04689f33-dd74-4d05-8d67-59be6208b23d&pd_rd_w=9MyhG&pd_rd_wg=Nlpvg&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=64M1ZG7EE7560XK2T3NQ&psc=1&refRID=64M1ZG7EE7560XK2T3NQ)
+
+[Data Science For Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=sr_1_3?crid=20KQI1PUZX14W&dchild=1&keywords=data+science+for+business&qid=1604067443&s=books&sprefix=data+science+%2Cstripbooks%2C183&sr=1-3)
+
+[Story Telling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1604068983&sr=8-1-spons)
+
+### Life Books 
+
+[Self-Compassion](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself/dp/0061733512/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1604067069&sr=1-3)
+
+[Power of Vulnerability Audio](https://www.amazon.com/Power-Vulnerability-Teachings-audio-cd/dp/1604078588)
+
+[Leading With Gratitude](https://www.amazon.com/Leading-Gratitude-Leadership-Practices-Extraordinary/dp/0062965786/ref=sr_1_7?dchild=1&keywords=gratitude&qid=1604068235&sr=8-7)
+
+### Articles
+
+[10 Signs You Will Suck at Programming(https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+
+[Signs That You Are A Good Programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer/)
+
+[Reading List Example](https://towardsdatascience.com/a-non-technical-reading-list-for-data-science-d72451429a70)
+
+[Best Blogs](https://towardsdatascience.com/best-data-science-blogs-to-follow-in-2020-d03044169eb4)
+
+[Best Podcasts Example](https://towardsdatascience.com/top-20-podcasts-for-data-science-83dc9e07448e)
