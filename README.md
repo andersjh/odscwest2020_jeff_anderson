@@ -35,7 +35,7 @@
 ## Stories Are The Key To Success 
 - What Story Does Your Data Tell?
   - Be curious
-  - There is no magic
+  - There is no magic, everthing is connected
 - How Will You Tell The Data’s Story?
   - You become a storyteller
   - Know your audience
