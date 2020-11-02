@@ -89,6 +89,8 @@ Life has shown me in very vivid ways how precious, fragile, resilient and beauti
 
 ### Life Books 
 
+[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-dp-0345472322/dp/0345472322/ref=mt_other?_encoding=UTF8&me=&qid=1604326810)
+
 [Self-Compassion](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself/dp/0061733512/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1604067069&sr=1-3)
 
 [Power of Vulnerability Audio](https://www.amazon.com/Power-Vulnerability-Teachings-audio-cd/dp/1604078588)
