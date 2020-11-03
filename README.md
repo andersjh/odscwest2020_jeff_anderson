@@ -103,7 +103,7 @@ Life has shown me in very vivid ways how precious, fragile, resilient and beauti
 
 [Signs That You Are A Good Programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer/)
 
-[What Makes A Great Software Engineer(https://register.gotowebinar.com/register/4959434468836808459)
+[What Makes A Great Software Engineer](https://register.gotowebinar.com/register/4959434468836808459)
 
 [Reading List Example](https://towardsdatascience.com/a-non-technical-reading-list-for-data-science-d72451429a70)
 
